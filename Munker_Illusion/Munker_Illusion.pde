@@ -16,7 +16,6 @@ void setup() {
 }
 
 void draw() {
-  println(mouseX/10);
   drawLines(mouseY/5);
   stroke(0,255,0);
   for(int i=10; i<500; i+=20){
