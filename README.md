@@ -14,7 +14,7 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+| Jesus Felipe Chavarro Muñoz | jesusfchavarro |
 
 ## Discusión
 
