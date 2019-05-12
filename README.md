@@ -31,6 +31,9 @@ Complete la tabla:
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar
 
+Mi principal referencia fue la pagina de [Michael Bach](https://michaelbach.de/ot/index.html) donde se muestran bastantes ejemplos de ilusiones opticas.
+Las ilusiones geometricas y fisiologicas son las que mas me llamaron la atención, pensado en especial las aplicaciones que pueden tener las ilusiones opticas.
+
 ## Entrega
 
 * Hacer [fork](https://help.github.com/articles/fork-a-repo/) de la plantilla. Plazo: 12/5/19 a las 24h.
